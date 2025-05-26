@@ -1,7 +1,8 @@
 # como iniciar, ivan sierra 
 
-```sh
+[Visita la página aquí](https://normasisoivansierra.netlify.app)
 
+```sh
 npm install
 npm run dev
 ```
@@ -9,8 +10,7 @@ npm run dev
 ## 🛠️ Herramientas Utilizadas
 
 - [Astro](https://astro.build/)
-- [Node.js](https://nodejs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [npm](https://www.npmjs.com/)
 
 > 🚀 ¡Listo para comenzar tu proyecto con Astro!
-
