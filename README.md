@@ -2,6 +2,9 @@
 
 [Visita la página aquí](https://normasisoivansierra.netlify.app)
 
+![image](https://github.com/user-attachments/assets/c8135a7b-eecb-4119-83d6-d3705bc8e4c1)
+
+
 ```sh
 npm install
 npm run dev
